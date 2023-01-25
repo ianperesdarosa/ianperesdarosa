@@ -1,10 +1,4 @@
-<br clear="both">
 
-<div align="center">
-  <img height="500" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp"  />
-</div>
-
-###
 
 <h1 align="center">Hello World!!</h1>
 
